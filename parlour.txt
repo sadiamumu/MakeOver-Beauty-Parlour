@@ -1,0 +1,30 @@
+“Makeover beauty parlour” installation guide for Customer
+
+We developed our software for android operating system. You can install our software in two ways. And so, Installation of Makeover beauty parlour(v18.12.004) on android is given below:
+1st Way: Install from Play store.
+1.	First you have to on your mobile data or Wi-Fi.
+2.	Tap on play store icon.
+3.	Then you have to log in your google account with correct Gmail address and password. If you have logged in before in your account then you need not to log in.
+4.	Play store takes some time to load all the apps.
+5.	In search box, enter the name (Makeover beauty parlour) of our software. 
+6.	Then click on the search icon.
+7.	In search result, you will find our name in the top.
+8.	Then click on our software name. 
+9.	After tapping on our apps, it shows your install option, some demo picture, others user reviews.
+10.	Then tap on install button and then apps will download and install automatically.
+11.	All the data of our software is saved on your internal storage. path would be:
+                    Android\obb\best.makeoverbeautyparlour.com\data
+2nd way: Download & Install from other sources.
+1.	Open the Settings app on your Android device. By default, Android devices cannot install apps from sources other than the Google Play Store (or the Amazon App Store for Kindle devices). To install apps manually, you'll need to allow your device to install apps from other sources. 
+2.	Tap "Security". This will open the Security menu.
+3.	Scroll down and check the "Unknown sources" box. Tap "OK" to confirm that you want to enable this
+4.	Open a browser, go to GOOGLE. And search the name of our app.
+5.	From the result of google search. You download our software from difference that suitable for you. We request to download our apps from play store or official website of our beauty parlour.
+6.	After download, open file explores. And go to download folder
+7.	In there, you will find our apps and tap on app.
+8.	 Then you will find install and cancel option.
+9.	Tap on install and installation process will be started.
+10.	After completed installation. Apps will be found in your phone.
+11.	All the data of our software is saved on your internal storage. path would be:
+                    Android\obb\best. makeoverbeautyparlour.com\data
+
